@@ -1,0 +1,1 @@
+export const BACKEND_URI = "https://pet-backend-4sry.onrender.com";

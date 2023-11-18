@@ -14,7 +14,7 @@ const Header =({allCategories})=> {
              color="inherit"
              align="center"
              sx={{flex: 1}}>
-                <img src='/images/logo.png' alt="logo" width="300" height="150" />
+                <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtuNj9VStIbZv3EoVSzgWW-Cj5CUBTGqnl8w&usqp=CAU' alt="logo" width="300" height="100" />
              </Typography>
         </Toolbar>
         <Toolbar component="nav" variant="dense"
